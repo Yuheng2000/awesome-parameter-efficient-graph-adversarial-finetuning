@@ -1,1 +1,1 @@
-# awesome-parameter-efficient-graph-adversarial-finetuning
+# Awesome-Parameter-Efficient-Graph-Adversarial-Finetuning
