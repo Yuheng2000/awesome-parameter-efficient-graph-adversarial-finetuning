@@ -10,3 +10,6 @@
 [DeepRobust](https://github.com/DSE-MSU/DeepRobust)
 
 [Awesome Graph Attack and Defense Papers](https://github.com/ChandlerBang/awesome-graph-attack-papers)
+
+[Awesome Graph Adversarial Learning Literature](https://github.com/safe-graph/graph-adversarial-learning-literature)
+
